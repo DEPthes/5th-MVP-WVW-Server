@@ -2,7 +2,7 @@
 
 🛠 기술 스택
 Language
-Java 21(?)
+Java 25
 
 Library
 JPA
@@ -12,7 +12,7 @@ Gemini API
 Google stt
 
 Framework
-Spring Boot 3.2(?)
+Spring Boot 4.0.7
 
 Collaboration
 Jira — 애자일 기반 협업 방식 사용
